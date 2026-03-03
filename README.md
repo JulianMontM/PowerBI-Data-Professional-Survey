@@ -13,5 +13,4 @@ Desarrollo de un dashboard interactivo en Power BI para analizar las tendencias 
 3. Se observan variaciones salariales significativas dependiendo del país de residencia.
 
 ## Vista Previas del Dashboard
-<img width="1920" height="1080" alt="Captura de pantalla 2026-03-03 001557" src="https://github.com/user-attachments/assets/0ed731f0-04b1-4f7d-a339-f3329f972e8d" />
-
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-03 001711" src="https://github.com/user-attachments/assets/3fb959e3-fbab-4fb4-8348-303afdaafc0a" />
